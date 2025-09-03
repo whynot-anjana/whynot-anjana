@@ -1,21 +1,22 @@
-# 🌸 hi, i’m anjana ✧
-student @ DSCE (AI/ML, 2026)  
-curious mind wandering through data + biz 🌷  
+# 🌸 Hi, I’m Anjana ✧
+Student @ DSCE (AI/ML, 2026)  
+Curious mind wandering through data + biz 🌷  
 
 ---
 
-### 🍓 about me
+### 🍓 About me
 💡 exploring data analytics & business tech  
 ✨ always learning, always experimenting  
 🌼 love turning messy info into pretty visuals  
 
 ---
 
-### 🌷 learning journey
+### 🌷 Learning journey
 currently playing with:  
 - python (my bestie)  
 - dashboards (power bi & tableau)  
-- data wrangling (excel + pandas)  
+- data wrangling 
+- sql, advanced excel, snowflake (we’re not friends yet, but we will be ✨)  
 - other things i bump into along the way 🎀  
 
 ---
