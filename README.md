@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🌸 Anjana ✧
+AI/ML student @ DSCE (2026)  
+turning data into ✨ dashboards & stories  
 
-<!--
-**whynot-anjana/whynot-anjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![analytics](https://img.shields.io/badge/focus-Data_Analytics-ffb6c1?style=flat-square&labelColor=0d0d0d&color=ffc0cb)](#)
+[![tools](https://img.shields.io/badge/tools-Python_|_PowerBI_|_Tableau-ffb6c1?style=flat-square&labelColor=0d0d0d&color=ffc0cb)](#)
 
-Here are some ideas to get you started:
+> motivated • learning • girliepop coder 💖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**learning rn**  
+sql • snowflake • ml bootcamps  
+
+**me in 3 words**  
+curious • adaptable • aesthetic  
+
