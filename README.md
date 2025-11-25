@@ -16,7 +16,7 @@ currently playing with:
 - python (my bestie)  
 - dashboards (power bi & tableau)  
 - data wrangling
-- [sql](https://github.com/whynot-anjana/sql-cookbook)
+- [sql](https://github.com/whynot-anjana/sql-cookbook) (the whole cookbook)
 - advanced excel, snowflake (we’re not friends yet, but we will be ✨)  
 - other things i bump into along the way 🎀  
 
