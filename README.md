@@ -15,8 +15,9 @@ Curious mind wandering through data + biz 🌷
 currently playing with:  
 - python (my bestie)  
 - dashboards (power bi & tableau)  
-- data wrangling 
-- sql, advanced excel, snowflake (we’re not friends yet, but we will be ✨)  
+- data wrangling
+- [sql](https://github.com/whynot-anjana/sql-cookbook)
+- advanced excel, snowflake (we’re not friends yet, but we will be ✨)  
 - other things i bump into along the way 🎀  
 
 ---
